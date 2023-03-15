@@ -5,5 +5,9 @@ console.log("here")
 
 
 function doNothing() {
-	let betterNamedVariable = "I Am Currently Doing Nothing"
+
+	let betterNamedVariable = "Now I Return a Useless Value";
+
+	return this_isATrachNAME;
+
 }
